@@ -1,6 +1,6 @@
 # Emcien Frontend Engineering Challenge
 
-Please download the data set [disasters.csv](https://github.com/emcien/Emcien-Docs/blob/master/disasters.csv) that contains information about natural disasters occuring in Georgia from 2010 to 2013.
+Please download the data set [disasters.csv](https://github.com/emcien/jobs/blob/master/disasters.csv) that contains information about natural disasters occuring in Georgia from 2010 to 2013.
 
 Your task is to create a visualization from this data.
 
