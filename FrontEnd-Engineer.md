@@ -54,5 +54,5 @@ To apply, please send:
 - Either of:
    * Public repositories of projects written *largely by you* attempting to solve some real problem
    * A submission to our data visualization challenge located here:
-     [Emcien Data Visualization Challenge](https://github.com/emcien/Emcien-Docs/blob/master/Data-Visualization-Challenge.md)
+     [Emcien Data Visualization Challenge](https://github.com/emcien/jobs/blob/master/Data-Visualization-Challenge.md)
 
