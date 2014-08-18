@@ -1,4 +1,4 @@
-Linux System Administrator (Atlanta)
+###Linux System Administrator (Atlanta)###
 
 [Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the discrete mathematical concept of sparse matrix graphs, these applications solve problems in manufacturing, retail, and law enforcement. This approach, plus big data sets, create challenging problems for our Operations and Engineering teams.
 We are looking for a Linux System Administrator to join our team.
@@ -30,3 +30,25 @@ We are looking for a Linux System Administrator to join our team.
 - nginx/Passenger
 - Cisco IOS
 - FreeIPA
+
+===
+
+To apply, please send us:
+- Your resume
+- Optional: A list of any open-source projects you have contributed to, and the name under which you contributed
+
+**About Emcien, Inc.**
+Emcien offers a suite of analytical applications that reveal patterns
+in data streams and actionable tasks to maximize profit. Emcien's
+analytics are based on innovative technology that leverages proprietary
+graph algorithms to eliminate the need for tedious data modeling and
+long implementation cycles.
+
+http://emcien.com
+
+- Emcien does not sponsor any Visas.
+- Location: Atlanta
+- Compensation: based on experience
+- Principals only. Recruiters, please don't contact this job poster.
+- Please, no phone calls about this job!
+- Please do not contact job poster about other services, products or commercial interests.
