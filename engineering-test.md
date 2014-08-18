@@ -17,10 +17,10 @@ class Bar < ActiveRecord::Base
 end
 ```
 
-1. How would you (in a controller method) assign to @country the Country named ‘France’?
-2. How would you assign to @cities an Array of all the cities in France?
-3. How would you assign to @bars an Array of all the bars in France?
-4. How would you assign to @directory an Array of the names of all the bars in France, sorted?
+1. How would you (in a controller method) assign to `@country` the Country named ‘France’?
+2. How would you assign to `@cities` an Array of all the cities in France?
+3. How would you assign to `@bars` an Array of all the bars in France?
+4. How would you assign to `@directory` an Array of the names of all the bars in France, sorted?
 5. Do any of the above answer change if there are 400 cities?
 6. How about if there are 20,000 bars?
 
