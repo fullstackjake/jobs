@@ -7,24 +7,24 @@
   * [Continuous Network Analysis](http://emcien.com/use-cases/continuous-network-analysis/)
   * [Conversation Analysis](http://emcien.com/use-cases/conversation-analysis/)
 
-This work is challenging, and rewarding, as we work closely with our research department inventing new ideas and solutions to difficult, un-solved problems. Engineers who want to flex their intellectual muscles do their best work at Emcien. We do not build simple CRUD applications like [facebook-for-cats](http://catmoji.com).
+This work is both challenging and rewarding. We work closely with our research department inventing new ideas and solutions to difficult, un-solved problems. Engineers who want to flex their intellectual muscles do their best work at Emcien. We do not build simple CRUD applications like [facebook-for-cats](http://catmoji.com).
 
-**Other benefits of working in Engineering at Emcien include:**
+**Benefits of working in Engineering at Emcien include:**
 
-  * The daily opportunity to learn from people whom specialize in data structures, data science & algorithms, user interface design, and other disciplines
+  * The daily opportunity to learn from people who specialize in data structures, data science & algorithms, user interface design, and other disciplines
   * The ability to ‘own’ your work
-  * Time to refactor and rewrite parts of the code base that accrue technical debt (we love breaking sub-systems into gems)
+  * Time to refactor and rewrite parts of the code base that accrues technical debt (we love breaking sub-systems into gems)
   * The opportunity to debate topics like “is Die Hard a Christmas movie?” (the answer is `yes`)
 
-We are looking for smart people who have a handle on the concepts behind web development. Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Python, PHP, Java, .NET or oCaml.
+We are looking for a smart individual who has a handle on the concepts behind web development. Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Python, PHP, Java, .NET or oCaml.
 
-If _you are_ an experienced Rails engineer, Emcien presents some unique and challenging problems to solve.
+If you are an experienced Rails engineer, Emcien presents unique and challenging problems to solve.
 
 ===
 
 **Skills & Requirements**
-  * Experience with a dynamic language (Python or Ruby preferred)
-  * Experience with a web framework such as Rails, Django, CakePHP, Express.js, etc.
+  * Experience with a dynamic language such as Python or Ruby
+  * Experience with a web framework such as Rails, Django, CakePHP, Express.js
   * Experience with the unix command-line tools (beyond `ls` and `cd`)
   * Basic understanding of relational databases
 
@@ -33,7 +33,7 @@ If _you are_ an experienced Rails engineer, Emcien presents some unique and chal
   * Experience with structured Javascript (server-side or client-side)
   * Understanding of testing methodologies
   * Experience with (or interest in) Elasticsearch, Redis, Hadoop, and other data stores
-  * Experience using git for source control
+  * Experience using git
 
 ===
 
