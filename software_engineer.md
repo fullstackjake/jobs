@@ -79,7 +79,7 @@ For the complete test, [go here](https://github.com/emcien/jobs/blob/master/engi
   * Your resume to devjobs@emcien.com
   * Either:
    * Your answers to the [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
-   * Public repositories of projects written _largely by you_ attempting to solve a real problem
+   * Public repositories of projects written largely by you attempting to solve a real problem
 
 Notes:
   * Emcien does not sponsor any Visas
