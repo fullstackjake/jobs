@@ -39,11 +39,11 @@ If you are an experienced Rails engineer, Emcien presents unique and challenging
 
 **Getting a Sense of How You Think**
 
-When applying to Emcien, we like to see your work to get a sense of how you solve problems. The best means is to see an open-source projects you have contributed to or a public repository largely written by you.
+When applying to Emcien, we like to see your work to get a sense of how you solve problems. We prefer to see open-source projects you have contributed to or a public repository largely written by you.
 
-The other mechanism is our [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
+Another way of seeing how you think is completing our [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
 
-A sample of this test is:
+A question from this test is:
 
 ```
 An ant is walking on the squares of a 5x5 grid - it starts in the center square.
