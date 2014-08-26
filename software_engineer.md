@@ -9,7 +9,7 @@
 
 This work is challenging, and rewarding, as we work closely with our research department inventing new ideas and solutions to difficult, un-solved problems. Engineers who want to flex their intellectual muscles do their best work at Emcien. We do not build simple CRUD applications like [facebook-for-cats](http://catmoji.com).
 
-Other benefits of working in Engineering at Emcien include:
+**Other benefits of working in Engineering at Emcien include:**
 
   * The daily opportunity to learn from people whom specialize in data structures, data science & algorithms, user interface design, and other disciplines
   * The ability to ‘own’ your work
@@ -22,13 +22,13 @@ If _you are_ an experienced Rails engineer, Emcien presents some unique and chal
 
 ===
 
-*Skills & Requirements*
+**Skills & Requirements**
   * Experience with a dynamic language (Python or Ruby preferred)
   * Experience with a web framework such as Rails, Django, CakePHP, Express.js, etc.
   * Experience with the unix command-line tools (beyond `ls` and `cd`)
   * Basic understanding of relational databases
 
-*Nice to Have*
+**Nice to Have**
   * Experience with Ruby on Rails
   * Experience with structured Javascript (server-side or client-side)
   * Understanding of testing methodologies
@@ -37,7 +37,7 @@ If _you are_ an experienced Rails engineer, Emcien presents some unique and chal
 
 ===
 
-*Getting a Sense of How You Think*
+**Getting a Sense of How You Think**
 
 When applying to Emcien, we like to see your work to get a sense of how you solve problems. The best means is to see an open-source projects you have contributed to or a public repository largely written by you.
 
@@ -75,7 +75,7 @@ For the complete test, [go here](https://github.com/emcien/jobs/blob/master/engi
 
 ===
 
-*To apply, please send us:*
+**To apply, please send us:**
   * Your resume
   * Either of:
    * Your answers to the [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
