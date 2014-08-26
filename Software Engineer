@@ -1,51 +1,86 @@
-Software Engineer for Complex Web Applications (Atlanta)
+#Software Engineer (Atlanta)#
 
-Emcien develops four products based on a patented pattern-detection engine. Using the discrete mathmatical concept of sparse matrix graphs, these applications solve problems in manufacturing, retail, and law enforcement. This approach, plus big data sets, create challenging problems for our Software Engineers.
+[Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications delivering:
+  
+  * [Recommendation Engines](http://emcien.com/use-cases/recommendation-engine/) 
+  * [Predictive Analytics](http://emcien.com/use-cases/predictive-analytics/)
+  * [Continuous Network Analysis](http://emcien.com/use-cases/continuous-network-analysis/)
+  * [Conversation Analysis](http://emcien.com/use-cases/conversation-analysis/)
 
-We are looking for more developers to join our team. If you mastered the concepts behind web development and have experience dealing with the web stack, Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Java, .NET, Python, PHP, or oCaml. If you are an experienced Rails engineer, Emcien presents some unique and challenging problems to solve. 
+This work is challenging, and rewarding, as we work closely with our research department inventing new ideas and solutions to difficult, un-solved problems. Engineers who want to flex their intellectual muscles do their best work at Emcien. We do not build simple CRUD applications like [facebook-for-cats](http://catmoji.com).
 
-Since we are a small, delta-force team of developers, each team member dives into a variety of code. Although you do not have to be an expert in each of these areas, this position will expose you to CoffeeScript, MySql, Amazon RDS, SASS, HAML, Backbone.js, and several other technologies. This means that your skills will advance with the latest ideas and innovations in web development. 
+Other benefits of working in Engineering at Emcien include:
 
-Skills & Requirements
+  * The daily opportunity to learn from people whom specialize in data structures, data science & algorithms, user interface design, and other disciplines
+  * The ability to ‘own’ your work
+  * Time to refactor and rewrite parts of the code base that accrue technical debt (we love breaking sub-systems into gems)
+  * The opportunity to debate topics like “is Die Hard a Christmas movie?” (the answer is `yes`)
 
-Must Have
-- Experience designing and building complex software systems
-- Experience with a dynamic language (Python or Ruby preferred)
-- Experience with a web framework such as Rails, Django, Pylons, CakePHP, CodeIgniter, Express.js, etc.
-- Experience with the unix command-line tools (beyond 'ls' and 'cd')
-- Basic understanding of relational databases
+We are looking for smart people who have a handle on the concepts behind web development. Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Python, PHP, Java, .NET or oCaml.
 
-Nice to Have
-- Experience with Ruby on Rails
-- Experience with structured Javascript (server-side or client-side)
-- Understanding of testing methodologies
-- Experience with Amazon AWS - we use EC2, S3, and RDS extensively
-- Experience with (or interest in) CouchDB, Redis, and other data storage systems
-- Experience using git for source control
-- Familiarity with basic functional programming techniques
+If _you are_ an experienced Rails engineer, Emcien presents some unique and challenging problems to solve.
 
-To apply, please send us:
-- Your resume
-- A list of any open-source projects you have contributed to, and the name under which you contributed
-- Either of:
-   * Your answers to the Developer Test located here: emcien.com/dev-test.html
-   * Public repositories of projects written *largely by you* attempting to solve some real problem
+===
+
+*Skills & Requirements*
+  * Experience with a dynamic language (Python or Ruby preferred)
+  * Experience with a web framework such as Rails, Django, CakePHP, Express.js, etc.
+  * Experience with the unix command-line tools (beyond `ls` and `cd`)
+  * Basic understanding of relational databases
+
+*Nice to Have*
+  * Experience with Ruby on Rails
+  * Experience with structured Javascript (server-side or client-side)
+  * Understanding of testing methodologies
+  * Experience with (or interest in) Elasticsearch, Redis, Hadoop, and other data stores
+  * Experience using git for source control
+
+===
+
+*Getting a Sense of How You Think*
+
+When applying to Emcien, we like to see your work to get a sense of how you solve problems. The best means is to see an open-source projects you have contributed to or a public repository largely written by you.
+
+The other mechanism is our [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
+
+A sample of this test is:
+
+```
+An ant is walking on the squares of a 5x5 grid - it starts in the center square.
+
+Each second, it will choose (with equal probability)
+to do one of the following:
+
+- Move north one square
+- Move south one square
+- Move east one square
+- Move west one square
+- Do not move
+
+If it cannot perform the action it has decided on (move west while on the 
+west edge, for example), it sits in place.
+
+After one second, it has a 20% chance of being in the center, and a 20% chance
+of being in each adjacent square. (and a 0% chance of being in any
+other square on the board).
+
+You may ignore floating point error accumulation.
+```
+
+**Questions:**
+- What is the probability that the ant is on the center square after 15 seconds?
+- What is the probability that the ant is on one of the outermost squares after 1 hour?
+
+For the complete test, [go here](https://github.com/emcien/jobs/blob/master/engineering-test.md). When completing this test, please provide any notes of how you derived your solutions. The correct answer is not the prime objective (because there are often several ‘correct’ answers) —- the intent is to get a feel of your thought process.
+
+===
+
+*To apply, please send us:*
+  * Your resume
+  * Either of:
+   * Your answers to the [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
+   * Public repositories of projects written _largely by you_ attempting to solve some real problem
 
 Notes:
-- Emcien does not sponsor any Visas.
-- All Web Developers must work out of our Atlanta Headquarters.
-
-About Emcien, Inc.
-Emcien offers a suite of analytical applications that reveal patterns
-in data streams and actionable tasks to maximize profit. Emcien's
-analytics are based on innovative technology that leverages proprietary
-graph algorithms to eliminate the need for tedious data modeling and
-long implementation cycles.
-
-http://emcien.com
-
-* Location: Atlanta
-* Compensation: based on experience
-* Principals only. Recruiters, please don't contact this job poster.
-* Please, no phone calls about this job!
-* Please do not contact job poster about other services, products or commercial interests.
+  * Emcien does not sponsor any Visas
+  * All Web Developers must work out of our Atlanta Headquarters
