@@ -76,7 +76,7 @@ For the complete test, [go here](https://github.com/emcien/jobs/blob/master/engi
 ===
 
 **To apply, please send us:**
-  * Your resume
+  * Send your resume to devjobs@emcien.com
   * Either of:
    * Your answers to the [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
    * Public repositories of projects written _largely by you_ attempting to solve some real problem
