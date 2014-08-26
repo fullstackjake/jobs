@@ -65,11 +65,11 @@ of being in each adjacent square. (and a 0% chance of being in any
 other square on the board).
 
 You may ignore floating point error accumulation.
-```
 
-**Questions:**
+Questions:
 - What is the probability that the ant is on the center square after 15 seconds?
 - What is the probability that the ant is on one of the outermost squares after 1 hour?
+```
 
 For the complete test, [go here](https://github.com/emcien/jobs/blob/master/engineering-test.md). When completing this test, please provide any notes of how you derived your solutions. The correct answer is not the prime objective (because there are often several ‘correct’ answers) —- the intent is to get a feel of your thought process.
 
