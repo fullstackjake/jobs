@@ -17,6 +17,8 @@ class Bar < ActiveRecord::Base
 end
 ```
 
+(Please feel free to use any documentation you can find)
+
 1. How would you (in a controller method) assign to `@country` the Country named ‘France’?
 2. How would you assign to `@cities` an Array of all the cities in France?
 3. How would you assign to `@bars` an Array of all the bars in France?
