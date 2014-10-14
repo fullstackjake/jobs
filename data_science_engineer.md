@@ -2,10 +2,12 @@
 
 [Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set business problems.
 
-As a Data Science Engineer your day-to-day work is a balance of software engineering and data science. Your work will rang from:
+As a Data Science Engineer your day-to-day work is a balance of software engineering and data science. Your work will range from:
 
   * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and belief propagation. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps in exploring an idea.
+  
   * **Writing Code** fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code smell, refactoring, pair programming, and excellent product.
+  
   * **Communicating Data Science Concepts to Business End Users** sometimes the most difficult part of the process, how do you address a business users problem by using language and concepts that non-technical people can understand but not deviating too much from the core science to make the end results moosh? Closing the gap between science - product - user needs is something we value in our work. 
 
 
