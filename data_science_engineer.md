@@ -1,11 +1,13 @@
 #Data Science Engineer (Atlanta)#
 
-[Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications delivering:
-  
-  * [Recommendation Engines](http://emcien.com/use-cases/recommendation-engine/) 
-  * [Predictive Analytics](http://emcien.com/use-cases/predictive-analytics/)
-  * [Continuous Network Analysis](http://emcien.com/use-cases/continuous-network-analysis/)
-  * [Conversation Analysis](http://emcien.com/use-cases/conversation-analysis/)
+[Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set business problems.
+
+As a Data Science Engineer your day-to-day work is a balance of software engineering and data science. Your work will rang from:
+
+  * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and belief propagation. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps in exploring an idea.
+  * **Writing Code** fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code smell, refactoring, pair programming, and excellent product.
+  * **Communicating Data Science Concepts to Business End Users** sometimes the most difficult part of the process, how do you address a business users problem by using language and concepts that non-technical people can understand but not deviating too much from the core science to make the end results moosh? Closing the gap between science - product - user needs is something we value in our work. 
+
 
 This work is both challenging and rewarding. We work closely with our research department inventing new ideas and solutions to difficult, un-solved problems. Engineers who want to flex their intellectual muscles do their best work at Emcien. We do not build basic or pointless applications like [facebook-for-cats](http://catmoji.com).
 
