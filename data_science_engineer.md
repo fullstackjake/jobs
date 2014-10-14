@@ -6,12 +6,13 @@ As a Data Science Engineer your day-to-day work is a balance of software enginee
 
   * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and belief propagation. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps in exploring an idea.
   
-  * **Writing Code** or fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code smell, refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics and participate in meetups and hack-a-thons. 
+  * **Writing Code** or fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code smell, refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics and participate in meetups & hack-a-thons. 
   
-  * **Communicating Data Science Concepts to Business End Users** sometimes the most difficult part of the process, how do you address a business users problem by using language and concepts that non-technical people can understand but not deviating too much from the core science to make the end results moosh? Closing the gap between science - product - user needs is something we value in our work. 
+  * **Communicating Data Science Concepts to Business End Users** sometimes the most difficult part, how do you address a business users problem by using language and concepts that non-technical people understand? As you present our science to the user, how do you not deviate too much from the core abstractions so that edge cases undermine our work? How do you prevent data fitting? How do you avoid positive biases? Closing the gap between science & user needs is something we value in our work. 
 
+This work is both challenging and rewarding. The payoff is hearing stories from our customer base explaining how EmcienPatterns, for example, helped them solve problems that no other solution (R, SAS, Hadoop, etc.) has ever solved. And the icing is that we often solve large problems on minutes, where modeling and map-reduce take hours, if not days.
 
-This work is both challenging and rewarding. We work closely with our research department inventing new ideas and solutions to difficult, un-solved problems. Engineers who want to flex their intellectual muscles do their best work at Emcien. We do not build basic or pointless applications like [facebook-for-cats](http://catmoji.com).
+To see a small sample of our work, please take a look at some of our videos: [root cause analysis](https://www.youtube.com/watch?v=Jev7MNRUfDI#action=share), [customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8), and [predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
 
 **Benefits of working in Engineering at Emcien include:**
 
