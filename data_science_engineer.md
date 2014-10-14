@@ -14,14 +14,7 @@ This work is both challenging and rewarding. The payoff is hearing stories from 
 
 To see a small sample of our work, please take a look at some of our videos: [root cause analysis](https://www.youtube.com/watch?v=Jev7MNRUfDI#action=share), [customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8), and [predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
 
-**Benefits of working in Engineering at Emcien include:**
-
-  * The daily opportunity to learn from people who specialize in data structures, data science & algorithms, user interface design, and other disciplines
-  * The ability to ‘own’ your work
-  * Time to refactor and rewrite parts of the code base that accrues technical debt (we love breaking sub-systems into gems)
-  * The opportunity to debate topics like “is Die Hard a Christmas movie?” (the answer is `yes`)
-
-We are looking for a smart individual who has a handle on the concepts behind web development; Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Python, PHP, Java, .NET or NodeJS.
+We are looking for a smart individual who has a handle on the concepts behind web development and data science. Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Python, PHP, Java, or .NET.
 
 If you are an experienced Rails engineer, Emcien presents unique and challenging problems to solve.
 
