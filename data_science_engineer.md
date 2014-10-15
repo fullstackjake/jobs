@@ -6,7 +6,7 @@ As a Data Science Engineer your day-to-day work is a balance of software enginee
 
   * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and belief propagation. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps in exploring an idea.
   
-  * **Writing Code** or fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code [smell](http://en.wikipedia.org/wiki/Code_smell), refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics and participate in meetups & hackathons. 
+  * **Writing Code** or fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on [code smell](http://en.wikipedia.org/wiki/Code_smell), refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics and participate in meetups & hackathons. 
   
   * **Communicating Data Science Concepts to Business End Users** is sometimes the most difficult part. How do you address a business users problem by using language and concepts that non-technical people understand? As you present our science to the user, how do you not deviate too much from the core abstractions so that edge cases undermine our work? How do you prevent data fitting? How do you avoid positive biases? Closing the gap between science & user needs is something we value in our work. 
 
