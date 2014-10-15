@@ -51,4 +51,4 @@ Another way that we can see how you think is for you to complete our [Emcien Eng
 
 Notes:
   * Emcien does not sponsor any Visas
-  * All Developers must work out of our Atlanta Headquarters
+  * All Engineers work out of our Atlanta Headquarters
