@@ -28,9 +28,10 @@ If you are an experienced Rails engineer, Emcien presents unique and challenging
 
 **Nice to Have**
   * Experience with Ruby on Rails
+  * Experience with (or interest in) R, SAS, Hadoop
   * Experience with structured Javascript (server-side or client-side)
   * Understanding of testing methodologies
-  * Experience with (or interest in) Elasticsearch, Redis, Hadoop, and other data stores
+  * Experience with (or interest in) Elasticsearch, Redis, and other data stores
   * Experience using git
 
 ===
