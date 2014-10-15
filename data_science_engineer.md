@@ -1,16 +1,16 @@
 #Data Science Engineer (Atlanta)#
 
-[Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set business problems.
+[Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set of business problems.
 
 As a Data Science Engineer your day-to-day work is a balance of software engineering and data science. Your work will range from:
 
   * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and belief propagation. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps in exploring an idea.
   
-  * **Writing Code** or fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code [smell](http://en.wikipedia.org/wiki/Code_smell), refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics and participate in meetups & hack-a-thons. 
+  * **Writing Code** or fingers-on-keyboards is when we build our applications. Since we own our codebase for the long haul, we have an intense focus on code [smell](http://en.wikipedia.org/wiki/Code_smell), refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics and participate in meetups & hackathons. 
   
-  * **Communicating Data Science Concepts to Business End Users** sometimes the most difficult part, how do you address a business users problem by using language and concepts that non-technical people understand? As you present our science to the user, how do you not deviate too much from the core abstractions so that edge cases undermine our work? How do you prevent data fitting? How do you avoid positive biases? Closing the gap between science & user needs is something we value in our work. 
+  * **Communicating Data Science Concepts to Business End Users** is sometimes the most difficult part. How do you address a business users problem by using language and concepts that non-technical people understand? As you present our science to the user, how do you not deviate too much from the core abstractions so that edge cases undermine our work? How do you prevent data fitting? How do you avoid positive biases? Closing the gap between science & user needs is something we value in our work. 
 
-This work is both challenging and rewarding. The payoff is hearing stories from our customer base explaining how EmcienPatterns, for example, helped them solve problems that no other solution (R, SAS, Hadoop, etc.) has ever solved. And the icing is that we often solve large problems on minutes, where modeling and map-reduce take hours, if not days.
+This work is both challenging and rewarding. The payoff is hearing stories from our customer base explaining how EmcienPatterns, for example, helped them solve problems that no other solution (R, SAS, Hadoop, etc.) has ever solved. And the icing is that we often solve large problems in minutes, where modeling and map-reduce take hours, if not days.
 
 To see a small sample of our work, please take a look at some of our videos: [root cause analysis](https://www.youtube.com/watch?v=Jev7MNRUfDI#action=share), [customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8), and [predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
 
