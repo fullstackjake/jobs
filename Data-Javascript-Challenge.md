@@ -5,7 +5,7 @@ Please download the data set [disasters.csv](https://github.com/emcien/jobs/blob
 Your task is to create a JavaScript oriented interface to this data in one or more of the following ways:
 
 - Parse and then provide an interface to edit the data
-- Visualize the data in an intuitive an interesting way
+- Visualize the data in an intuitive and interesting way
 - Connect with an external API to enhance the data using additional sources of data
 
 While you can certainly write code that attempts to do all three, we would recommend primarily focusing on one in a way that
