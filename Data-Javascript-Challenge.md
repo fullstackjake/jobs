@@ -9,7 +9,7 @@ Your task is to create a JavaScript oriented interface to this data in one or mo
 - Connect with an external API to enhance the data using additional sources of data
 
 While you can certainly write code that attempts to do all three, we would recommend primarily focusing on one in a way that
-shows your skills and is easy to understand for the user.
+shows your skills and is easy to understand for the user. This is your time to impress us!
 
 We would like to see the code, and the app running somewhere if possible (you can use sites like [codepen](http://codepen.io/) and [jsfiddle](http://jsfiddle.net/) to host it.)
 
