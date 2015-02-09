@@ -9,12 +9,12 @@ competent to write FizzBuzz, implement a basic singly-linked list, and build a s
 You should also be somewhat familiar with Unix - comfortable getting work done on either the Linux
 or OSX command line. Bonus points for any of:
 
-- Understand hash tables
+- Understands hash tables
 - Familiarity with Ruby (our tests are written in RSpec)
 - Experience with data manipulation (text processing, parsing, etc)
-- Not afraid of pointers
+- Is not afraid of pointers
 - Can write C Macro wrappers for data structures
-- Experience with using SAS, R, SciPy, or Matlab to do data analysis
+- Has experience with using SAS, R, SciPy, or Matlab to do data analysis
 
 An experienced C developer could also apply if interested - you folk are harder to find and hire, but
 we have no specific requirement for a junior-level salary.
