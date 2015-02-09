@@ -1,8 +1,8 @@
-#Data Science Engineer (Atlanta)#
+#Software Engineer for Data Science Product (Atlanta)#
 
 [Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set of business problems.
 
-As a Data Science Engineer your day-to-day work is a balance of software engineering and data science. Your work will range from:
+As a Software Engineer your day-to-day work is a balance of software engineering and data science. Your work will range from:
 
   * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and belief propagation. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps in exploring an idea.
   
