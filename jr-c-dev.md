@@ -30,8 +30,8 @@ matrices).
 
 ### The Environment
 
-We are a very small development team - four engineers total, and only of them works heavily on this
-engine already. We have an open floor plan, and regularly iterate on our process. Most importantly,
+We are a very small development team - four engineers total, and only one of them works heavily on this
+engine. We have an open floor plan, and regularly iterate on our process. Most importantly,
 we aren't code-monkeys typing madly under the whip of our project-manager overlords - we do the majority
 of the science, design, and architecture for our products; our overlords are whipless, and tend to
 present overarching objectives rather than detailed specs.
