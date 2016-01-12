@@ -1,6 +1,6 @@
 #Software Engineer for Data Science Product (Atlanta)#
 
-[Emcien](http://emcien.com) develops four products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set of business problems.
+[Emcien](http://emcien.com) develops two products based on a patented pattern-detection engine. Using the [discrete mathematical concept of sparse matrix graphs](http://emcien.com/technology/) we build applications solving a diverse set of business problems.
 
 As a Software Engineer your day-to-day work is a balance of software engineering and data science. Your work will range from:
 
