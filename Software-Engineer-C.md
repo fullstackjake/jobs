@@ -37,16 +37,13 @@ You should also be somewhat familiar with Unix—comfortable getting work done o
   * Understanding of testing methodologies
   * Experience with Ruby on Rails
 
-**Getting a Sense of How You Think**
-Please provide a sample C program doing *one* of the following:
-  * `cat` concatenates stdin with all files listed as arguments and prints the result to stdout.
-  * `sort` reads numbers from stdin (one per line), sorts them, and prints them on stdout.
-  * `primes` takes one numeric argument 'N', and prints the first N primes to stdout.
-  * `euler` solutions to the first five project (euler problems)[https://projecteuler.net/problems]
-
 **To apply, please send us:**
   * Your resume to devjobs@emcien.com
-  * One of the sample programs described above
+  * Write *one* of the below as sample program:
+    * `cat` concatenates stdin with all files listed as arguments and prints the result to stdout.
+    * `sort` reads numbers from stdin (one per line), sorts them, and prints them on stdout.
+    * `primes` takes one numeric argument 'N', and prints the first N primes to stdout.
+    * `euler` solutions to the first five project (euler problems)[https://projecteuler.net/problems]
 
 ===
 
