@@ -45,7 +45,7 @@ You should also be somewhat familiar with Unix—comfortable getting work done o
     * `cat` concatenates stdin with all files listed as arguments and prints the result to stdout.
     * `sort` reads numbers from stdin (one per line), sorts them, and prints them on stdout.
     * `primes` takes one numeric argument 'N', and prints the first N primes to stdout.
-    * `euler` solutions to the first five project (euler problems)[https://projecteuler.net/problems]
+    * `euler` solutions to the first five project [euler problems](https://projecteuler.net/problems)
 
 ===
 
