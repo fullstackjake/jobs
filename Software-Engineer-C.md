@@ -19,7 +19,9 @@ To see a small sample of our work, please take a look at some of our videos:
 
 We are looking for someone with C experience—"a few classes four years ago" may be sufficient. You should be able to manage the first 5 [Project Euler](https://projecteuler.net/) problems in C, and you should at least be competent to write [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz), implement a basic singly-linked list, and build a simple unix `cat` utility.
 
-You should also be somewhat familiar with Unix—comfortable getting work done on either the Linux or OSX command line. Bonus points for any of:
+You should also be somewhat familiar with Unix—comfortable getting work done on either the Linux or OSX command line.
+
+===
 
 **Skills & Requirements**
   * Understands hash tables
@@ -34,11 +36,8 @@ You should also be somewhat familiar with Unix—comfortable getting work done o
   * Experience with (or interest in) R, SAS, Hadoop
   * Understanding of testing methodologies
   * Experience with Ruby on Rails
-  
-===
 
 **Getting a Sense of How You Think**
-
 Please provide a sample C program doing *one* of the following:
   * `cat` concatenates stdin with all files listed as arguments and prints the result to stdout.
   * `sort` reads numbers from stdin (one per line), sorts them, and prints them on stdout.
@@ -48,6 +47,8 @@ Please provide a sample C program doing *one* of the following:
 **To apply, please send us:**
   * Your resume to devjobs@emcien.com
   * One of the sample programs described above
+
+===
 
 Notes:
   * Emcien does not sponsor any Visas
