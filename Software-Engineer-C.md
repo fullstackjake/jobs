@@ -20,6 +20,7 @@ To see a small sample of our work, please take a look at some of our videos:
 We are looking for someone with C experience—"a few classes four years ago" may be sufficient. You should be able to manage the first 5 [Project Euler](https://projecteuler.net/) problems in C, and you should at least be competent to write [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz), implement a basic singly-linked list, and build a simple unix `cat` utility.
 
 You should also be somewhat familiar with Unix—comfortable getting work done on either the Linux or OSX command line.
+
 ===
 
 **Skills & Requirements**
