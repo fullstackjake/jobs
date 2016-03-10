@@ -4,7 +4,7 @@
 
 As a Software Engineer with a focus on the C language, your day-to-day work is a balance of software engineering and data science. Your work will range from:
 
-  * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and prediction scoring. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps. These topics will be typically lead by our founder and [Chief Scientist, Dr. Roy Marsten](http://emcien.com/about/#leadership) who drives the algorithmic development. This role will work closely with Dr. Marsten to translate the research prototypes into production code. 
+  * **Whiteboard, Conceptual Discussions** where we wrestle through ideas like conditional probability and prediction scoring. Time-on-whiteboard is mainly to flesh out ideas, bookmark good ones, and agree on next steps. These topics will be typically led by our founder and [Chief Scientist, Dr. Roy Marsten](http://emcien.com/about/#leadership) who drives the algorithmic development. This role will work closely with Dr. Marsten to translate the research prototypes into production code. 
   
   * **Writing Code** or fingers-on-keyboards is when we build our software. Since we own our codebase for the long haul, we have an intense focus on [code smell](http://en.wikipedia.org/wiki/Code_smell), refactoring, pair programming, and product excellence. While we have high individual standards, we work closely as a team to share ideas, mentor, and train. We have weekly deep-dives into engineering topics, sanctioned side-project time, and participate in meetups & hackathons. 
   
