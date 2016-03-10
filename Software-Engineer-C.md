@@ -17,7 +17,7 @@ To see a small sample of our work, please take a look at some of our videos:
   * [Predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
   * [Customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8)
 
-We are looking for someone with C experience—"a few classes four years ago" may be sufficient. You should be able to manage the first 5 [Project Euler](https://projecteuler.net/) problems in C, and you should at least be competent to write [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz), implement a basic singly-linked list, and build a simple unix `cat` utility.
+We are looking for someone with C experience. You should be able to manage the first 5 [Project Euler](https://projecteuler.net/) problems in C, and you should at least be competent to write [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz), implement a basic singly-linked list, and build a simple unix `cat` utility.
 
 You should also be somewhat familiar with Unix—comfortable getting work done on either the Linux or OSX command line.
 
