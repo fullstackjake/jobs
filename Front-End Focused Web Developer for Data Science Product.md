@@ -1,4 +1,4 @@
-#Front-End Focused for Data Science Product#
+#Front-End Focused Web Developer for Data Science Product#
 
 [Emcien](http://emcien.com) develops two products ([Scan](http://emcien.com/scan/) & [Patterns](http://emcien.com/patterns/)) based on a patented pattern-detection engine. Using the discrete mathematical concept of sparse matrix graphs, we build applications solving a diverse set of interesting business problems.
 
