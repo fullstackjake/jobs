@@ -17,22 +17,19 @@ To see a small sample of our work, please take a look at some of our videos:
 * [Predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
 * [Customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8)
 
-We are looking for a smart individual who has a handle on the concepts behind web development and data science. This position will write code in all parts of the stack, but spend a majority of its time with Javascript. We are looking for someone with expertise in Javascript, but at the same time is comfortable changing server side code too. This person may not be designing the database models, but should have the ability to serialize data or change a query to fetch the necessary data for the views.
+We are looking for a smart individual who has a handle on the concepts behind web development and data science. This position will write code in all parts of the stack, but spend a majority of its time with Javascript. We are looking for someone with expertise in Javascript, but at the same time is comfortable changing server side code too. This person may not be designing database models, but should have the ability to serialize data or change a query to fetch the necessary data for views.
 
 ===
 
 **Skills & Requirements**
-  * Experience with a dynamic language such as Python or Ruby
-  * Experience with a web framework such as Rails, Django, CakePHP, Express.js
+  * Experience with structured JavaScript libraries like Backbone.js, AngularJS, or React
+  * Experience with a web framework such as Rails, Django, CakePHP
   * Experience with the unix command-line tools (beyond `ls` and `cd`)
-  * Basic understanding of relational databases
 
 **Nice to Have**
   * Experience with Ruby on Rails
   * Experience with (or interest in) R, SAS, Hadoop
-  * Experience with structured Javascript (server-side or client-side)
   * Understanding of testing methodologies
-  * Experience with (or interest in) Elasticsearch, Redis, and other data stores
   * Experience using git
 
 ===
@@ -41,12 +38,12 @@ We are looking for a smart individual who has a handle on the concepts behind we
 
 When applying to Emcien, we like to see your work to get a sense of how you solve problems. We prefer to see open-source projects you have contributed to or a public repository largely written by you.
 
-Another way that we can see how you think is for you to complete our [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md), a short set of questions the check respectively (1) your ability to read documentation, (2) your ability to solve straightforward problems with code, and (3) your ability to model a less straightforward problem.
+Another way that we can see how you think is for you to complete our [Data Visualization Challenge](https://github.com/emcien/jobs/blob/master/Data-Visualization-Challenge.md).
 
 **To apply, please send us:**
   * Your resume to devjobs@emcien.com
   * One or more of:
-   * Your answers to the [Emcien Engineering Test](https://github.com/emcien/jobs/blob/master/engineering-test.md)
+   * Your answers to the [Data Visualization Challenge](https://github.com/emcien/jobs/blob/master/Data-Visualization-Challenge.md)
    * Public repositories of projects written largely by you attempting to solve a real problem
    * Solutions to a fair number of Project Euler problems (20+) in a language of your choice.
 
