@@ -17,7 +17,7 @@ To see a small sample of our work, please take a look at some of our videos:
 * [Predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
 * [Customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8)
 
-We are looking for a smart individual who has a handle on the concepts behind web development and data science. This position will write code in all parts of the stack, but spend a majority of its time with Javascript. We are looking for someone with expertise in Javascript, but at the same time is comfortable changing server side code too. This person may not be designing database models, but should have the ability to serialize data or change a query to fetch the necessary data for views.
+We are looking for a smart individual who has a handle on the concepts behind web development and data science. This position will write code in all parts of the stack, but spend a majority of its time with JavaScript. We are looking for someone with expertise in JavaScript, but at the same time is comfortable changing server side code too. This person may not be designing database models, but should have the ability to serialize data or change a query to fetch the necessary data for views.
 
 ===
 
