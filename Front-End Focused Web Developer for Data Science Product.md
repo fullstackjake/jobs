@@ -17,9 +17,7 @@ To see a small sample of our work, please take a look at some of our videos:
 * [Predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
 * [Customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8)
 
-We are looking for a smart individual who has a handle on the concepts behind web development and data science. Emcien is willing to train you in Ruby on Rails. This position is an excellent opportunity for anyone who wants to make the transition from Python, PHP, Java, or .NET.
-
-If you are an experienced Rails engineer, Emcien presents unique and challenging problems to solve.
+We are looking for a smart individual who has a handle on the concepts behind web development and data science. This position will write code in all parts of the stack, but spend a majority of its time with Javascript. We are looking for someone with expertise in Javascript, but at the same time is comfortable changing server side code too. This person may not be designing the database models, but should have the ability to serialize data or change a query to fetch the necessary data for the views.
 
 ===
 
