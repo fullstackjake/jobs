@@ -1,8 +1,7 @@
 # Backend Software Engineer: C
 
 [Emcien](http://emcien.com/) is looking for an experienced software engineer
-with a focus on C development to help build and improve our analytics engine
-used in our products. We work at the intersections of graph theory, information
+with a focus on C development to help build and improve our analytics engine. We work at the intersections of graph theory, information
 theory, statisitcs and machine learning, which lends to exciting and
 challenging problems to solve on a daily basis. We hire engaged and
 hard-working engineers who are open to learning complex concepts. We care about
@@ -31,19 +30,14 @@ engineering and data science. Your work will range from:
   deep-dives into engineering topics, sanctioned side-project time, and
   participate in meetups & hackathons.
 
-* **Communicating Data Science Concepts** to Business End Users is sometimes
-  the most difficult part. How do you address a business users problem by using
-  language and concepts that non-technical people understand? As you
-  communicate data science results to non-technical people, how do you use
-  methapors that are not too leaky? How do you avoid confirmation biases?
-  Closing the gap between science & user needs is one of the most rewarding
+* **Communicating Data Science Concepts** by closing the gap between science & user needs is one of the most rewarding
   aspects of our work. This role does not have direct contact with user
   interfaces, but the results from our analyitcal engine need to align with the
   customer experience.
 
 * **Ruthless [Bumperpool](https://en.wikipedia.org/wiki/Bumper_pool) Matches**,
   where we take breaks from our hard work for some light competition against
-  our peers.
+  our peers. We have pushed the game with shots like 'around-the-worlds', 'tipper gores', and 'smash-n-pray'.
 
 This work is both challenging and energizing. The payoff is hearing stories
 from our customers explaining how Patterns, for example, helps solve problems
@@ -73,39 +67,25 @@ To see a small sample of our work, please take a look at some of our videos:
 
 * Solid working knowledge of C: understanding of concepts such as pointers,
   hash tables, memory management, data processing and macros
-
 * Strong ability to grasp new and complex concepts in math, computer science
   and engineering
-
 * Ownership of the product lifecycle from system design through deployment
-
 * Strong communication skills and the ability to mentor other engineers in
   small teams
-
 * Demonstrated experiencing delivering production ready code to customers
-
 * Experience writing unit tests
-
 * Comfortable on the linux command-line (beyond `ls` and `cd`)
 
-
 ## Nice to Have
-
 * Familiarity with Ruby (our tests are written in Ruby with RSpec)
-
 * Willingness to wear multiple hats; we own our operations infrastructure
   and all engineers take part in building and maintaining it
-
 * Understanding of Linux systems, management and administration
-
 * Comfortable exploring and assessing new technologies
-
 * Thoughtful software design that minimizes technical debt and is built to
   last, not just fix the plumbing
-
 * Basic understanding of core concepts in statistics and probability, maybe
   even Bayes' Theorem
-
 * Interest in graph theory, information theory or machine learning
 
 
@@ -122,6 +102,4 @@ with either of the following:
 
 **Note:**
 
-Emcien does not sponsor any Visas
-
-All Engineers work out of our Atlanta Headquarters
+Emcien does not sponsor any Visas. All Engineers work out of our Atlanta Headquarters
