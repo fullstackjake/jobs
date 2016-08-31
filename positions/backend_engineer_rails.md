@@ -12,7 +12,7 @@ our code.
 Emcien develops two products ([Scan](http://emcien.com/scan/) &
 [Patterns](http://emcien.com/patterns/)) based on a patented pattern-detection
 engine. Using the mathematical concept of sparse matrix graphs, we build
-applications solving a diverse set of interesting business analytics problems.
+applications solving a diverse set of interesting business problems.
 
 As a software engineer, your day-to-day work is a balance of software
 engineering and data science. Your work will range from:
