@@ -40,7 +40,7 @@ engineering and data science. Your work will range from:
 
 * **Ruthless [Bumperpool](https://en.wikipedia.org/wiki/Bumper_pool) Matches**,
   where we take breaks from our hard work for some light competition against
-  our peers.
+  our peers. We have pushed the game with shots like 'around-the-worlds', 'tipper gores', and 'smash-n-pray'.
 
 This work is both challenging and energizing. The payoff is hearing stories
 from our customers explaining how Patterns, for example, helps solve problems
@@ -53,7 +53,6 @@ To see a small sample of our work, please take a look at some of our videos:
   * [Scan](https://www.youtube.com/watch?v=na4RSwQT_DQ)
   * [Predictive analytics](https://www.youtube.com/watch?v=7kI9LEHMFbU)
   * [Customer churn prevention](https://www.youtube.com/watch?v=NywaC0EBAh8)
-
 
 ## Tools We Use
 
@@ -70,47 +69,32 @@ To see a small sample of our work, please take a look at some of our videos:
 
 * Solid working knowledge of object-oriented Javascript: understanding of
   objects, closures, scoping, prototypes, hoisting, callbacks, the DOM
-
 * Core knowledge of how HTTP works and how the frontend works with the backend
   server
-
 * Experience working with JavaScript frameworks such as Backbone, Anguler,
   Ember or React
-
 * Strong ability to grasp new and complex concepts in math, computer science
   and engineering
-
 * Ownership of the product lifecycle from system design through deployment
-
 * Strong communication skills and the ability to mentor other engineers in
   small teams
-
 * Demonstrated experiencing delivering production ready code to customers
-
 * Comfortable on the linux command-line (beyond `ls` and `cd`)
 
 
 ## Nice to Have
 
 * Experience with Ruby on Rails servers on the backend
-
 * Experience creating data viualizations using D3.js
-
 * Willingness to wear multiple hats; we own our operations infrastructure
   and all engineers take part in building and maintaining it
-
 * Understanding of Linux systems, management and administration
-
 * Comfortable exploring and assessing new technologies
-
 * Thoughtful software design that minimizes technical debt and is built to
   last, not just fix the plumbing
-
 * Basic understanding of core concepts in statistics and probability, maybe
   even Bayes' Theorem
-
 * Interest in graph theory, information theory or machine learning
-
 
 ## To Apply
 
@@ -125,6 +109,4 @@ with either of the following:
 
 **Note:**
 
-Emcien does not sponsor any Visas
-
-All Engineers work out of our Atlanta Headquarters
+Emcien does not sponsor any Visas. All Engineers work out of our Atlanta Headquarters
