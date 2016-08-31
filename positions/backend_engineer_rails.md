@@ -2,7 +2,7 @@
 
 [Emcien](http://emcien.com/) is looking for an experienced software engineer
 with a focus on Ruby on Rails development to help build and improve our web
-applications used to present the analysis in our products. We work at the
+applications. We work at the
 intersections of graph theory, information theory, statisitcs and machine
 learning, which lends to exciting and challenging problems to solve on a daily
 basis. We hire engaged and hard-working engineers who are open to learning
