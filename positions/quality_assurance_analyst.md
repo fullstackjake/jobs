@@ -6,14 +6,16 @@ Emcien develops two products ([Scan](http://emcien.com/patterns/) &
 [Patterns](http://emcien.com/scan/)) based on a patented pattern-detection engine. Using the mathematical concept of sparse matrix graphs, we build applications solving a diverse set of interesting business problems.
 
 ## Day-to-Day Responsibilities
-* Write & Maintain QA Test Plans & Scripts
+* Create, maintain and execute the Test Plan
+* Create and execute Test Scripts 
 * Manage and improve the QA process to ensure quality while accelerating software delivery
 * Work closely with members of the Engineering team to dissect and triage software defects
 * Collaborate with members of the Research team to understand algorithms and proofs
-* Communicate with the Sales and Services teams to capture quality issues found in the field
+* Communicate with the Sales and Services teams to understand customer and industry requirements and  capture quality issues found in the field
 * Research and evaluate new technologies for potential use with our products
 
 ## Nice to Have
+* Test Automatio Experience
 * Understanding of Linux systems
 * Experience writing SQL Queries
 * Understanding of source control
