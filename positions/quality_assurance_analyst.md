@@ -1,0 +1,3 @@
+Emcien is looking for an experienced quality assurance analyst to test and improve our web applications. We work at the intersections of graph theory, information theory, statistics and machine learning, which lends to exciting and challenging problems to solve. We hire engaged and hard-working people who are open to learning complex concepts. We care about doing things the right way and take pride in our products.
+
+Emcien develops two products (Scan & Patterns) based on a patented pattern-detection engine. Using the mathematical concept of sparse matrix graphs, we build applications solving a diverse set of interesting business problems.
