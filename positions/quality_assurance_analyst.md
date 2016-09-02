@@ -16,6 +16,7 @@ Emcien develops two products ([Scan](http://emcien.com/patterns/) &
 ## Nice to Have
 * Understanding of Linux systems
 * Experience writing SQL Queries
+* Understanding of source control
 * Expertise in web application architecture (MVC)
 * Basic understanding of core concepts in statistics and probability, maybe even Baye's Theorem
 * Interest in graph theory, information theory or machine learning
