@@ -18,7 +18,7 @@ We work at the intersections of graph theory, information theory, statistics and
 * Research and evaluate new technologies for potential use with our products
 
 ## Requirements
-* 3+ years experience software quality assurance or software development for web applications
+* 3+ years experience in software quality assurance or software development for web applications
 * Experience creating detailed test plans / test cases from scratch
 * Basic knowledge of source control software and concepts (preferrably git)
 * Basic knowledge of software issue tracking software and concepts (preferrably Jira)
