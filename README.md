@@ -16,6 +16,8 @@ pride in our code.
 
 We are currently hiring for the following positions:
 
+* [Software QA Lead](https://github.com/emcien/jobs/blob/master/positions/quality_assurance_lead.md)
+
 * [Backend Software Engineer: C](https://github.com/emcien/jobs/blob/master/positions/backend_engineer_c.md)
 
 * [Backend Software Engineer: Ruby on Rails](https://github.com/emcien/jobs/blob/master/positions/backend_engineer_rails.md)
