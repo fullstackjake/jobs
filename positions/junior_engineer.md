@@ -14,20 +14,20 @@ business problems.
 As a junior engineer, your day-to-day work is a balance of engineering
 and data science. Your work will range from:
 
-* *Writing Code* to fix defects or add enhancements to our Rails applications,
+* **Writing Code** to fix defects or add enhancements to our Rails applications,
   front-end javascript, server configurations, or scripts used to help manage
   and process data. While we have high individual standards, we work closely as
   a team to share ideas, mentor, and train.
 
-* *Supporting* non-technical teams throughout Emcien as they work to enable our
+* **Supporting** non-technical teams throughout Emcien as they work to enable our
   customers to get up and running with our applications, including using our
   RESTful APIs.
 
-* *Testing* our products with both manual tests and helping to write and execute
+* **Testing** our products with both manual tests and helping to write and execute
   automated test scripts. As a small team, all developers are responsible for
   the quality of our product.
 
-* *Documenting* new features and improvements to our products.
+* **Documenting** new features and improvements to our products.
 
 In addition to the above, you can expect to participate in:
 
