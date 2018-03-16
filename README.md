@@ -20,6 +20,6 @@ We are currently hiring for the following positions:
 
 * [Backend Software Engineer: C](https://github.com/emcien/jobs/blob/master/positions/backend_engineer_c.md)
 
-* [Backend Software Engineer: Ruby on Rails](https://github.com/emcien/jobs/blob/master/positions/backend_engineer_rails.md)
+* [Junior Engineer](https://github.com/emcien/jobs/blob/master/positions/junior_engineer.md)
 
 * [Frontend Software Engineer](https://github.com/emcien/jobs/blob/master/positions/frontend_engineer.md)
