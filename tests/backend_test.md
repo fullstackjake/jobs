@@ -1,6 +1,6 @@
-##Software Engineering Test##
+# Software Engineering Test
 
-####Question 1####
+## Question 1
 
 ```ruby
 class Country < ActiveRecord::Base
@@ -17,18 +17,20 @@ class Bar < ActiveRecord::Base
 end
 ```
 
-(Please feel free to use any documentation you can find)
+Given the relations described above and using the 
+[Rails Guide](http://guides.rubyonrails.org/active_record_querying.html) on Active 
+Record Querying, please answer the following:
 
 1. How would you (in a controller method) assign to `@country` the Country named ‘France’?
 2. How would you assign to `@cities` an Array of all the cities in France?
 3. How would you assign to `@bars` an Array of all the bars in France?
 4. How would you assign to `@directory` an Array of the names of all the bars in France, sorted?
-5. Do any of the above answer change if there are 400 cities?
-6. How about if there are 20,000 bars?
+5. Do any of the above answer change if there are 400 cities? Why or why not?
+6. How about if there are 20,000 bars? Why or why not?
 
-===
+------
 
-####Question 2####
+## Question 2
 
 ```
 Let S be the set of numbers greater than zero and less than 100,000
@@ -40,9 +42,11 @@ that are evenly divisible by 19.
 3. How many numbers in S have a reflection that is also in S? (The reflection of 145 is 541)
 4. How many numbers in S can be multiplied by some other number in S to produce a third number in S?
 
-===
+_*Please provide code that you could use to help you programmatically arrive at your solutions*_
 
-####Question 3####
+------
+
+## Question 3
 
 ```
 An ant is walking on the squares of a 5x5 grid - it starts in the center square.
@@ -67,5 +71,5 @@ You may ignore floating point error accumulation.
 ```
 
 **Questions:**
-- What is the probability that the ant is on the center square after 15 seconds?
-- What is the probability that the ant is on one of the outermost squares after 1 hour?
+- What is the probability that the ant is on the center square after 15 seconds? Explain your reasoning and how you arrived at this solution.
+- What is the probability that the ant is on one of the outermost squares after 1 hour? Explain your reasoning and how you arrived at this solution.
