@@ -70,6 +70,5 @@ other square on the board).
 You may ignore floating point error accumulation.
 ```
 
-**Questions:**
-- What is the probability that the ant is on the center square after 15 seconds? Explain your reasoning and how you arrived at this solution.
-- What is the probability that the ant is on one of the outermost squares after 1 hour? Explain your reasoning and how you arrived at this solution.
+1. What is the probability that the ant is on the center square after 15 seconds? Explain your reasoning and how you arrived at this solution.
+2. What is the probability that the ant is on one of the outermost squares after 1 hour? Explain your reasoning and how you arrived at this solution.
